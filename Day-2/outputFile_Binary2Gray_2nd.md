@@ -1,0 +1,17 @@
+                  0  binary=0000,gray=0000
+                   5  binary=0001,gray=0001
+                  10  binary=0010,gray=0011
+                  15  binary=0011,gray=0010
+                  20  binary=0100,gray=0110
+                  25  binary=0101,gray=0111
+                  30  binary=0110,gray=0101
+                  35  binary=0111,gray=0100
+                  40  binary=1000,gray=1100
+                  45  binary=1001,gray=1101
+                  50  binary=1010,gray=1111
+                  55  binary=1011,gray=1110
+                  60  binary=1100,gray=1010
+                  65  binary=1101,gray=1011
+                  70  binary=1110,gray=1001
+                  75  binary=1111,gray=1000
+                  80  binary=0000,gray=0000
